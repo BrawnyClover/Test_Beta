@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestBeta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_start">Start</string>
+    <string name="str_stop">Stop</string>
+    <string name="call_kor">전화</string>
+    <string name="camera_kor">카메라</string>
+    <string name="calender_kor">일정</string>
+    <string name="sms_kor">문자</string>
+    <string name="search_kor">검색</string>
+    <string name="music_kor">음악</string>
+    <string name="time_kor_space">현재 시간</string>
+    <string name="time_kor">현재시간</string>
+
+    <string name="help_1">1. 전화 : \"[대상]에게 전화\"</string>
+    <string name="help_2">2. 문자 : \"[대상]에게 [내용]이라고 문자\"</string>
+    <string name="help_3">3. 카메라 : \"카메라\"</string>
+    <string name="help_4">4. 일정 : \"일정\"</string>
+    <string name="help_5">5. 검색 : \"[내용] 검색\"</string>
+    <string name="help_6">6. 현재 시간 : \"현재 시간\"</string>
+    <string name="help_7">7. 음악 : \"음악\"</string>
+    <string name="help_8">8. 잡담 : /TestBeta/chatbotxml.xml 참조</string>
+    <string name="help_9">9. 가르치기 : \"가르치기 [Intent이름] [명령어]\"</string>
+</resources>

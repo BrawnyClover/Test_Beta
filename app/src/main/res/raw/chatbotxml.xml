@@ -1,0 +1,87 @@
+<chatbot>
+    <intent>
+        <greet class="order">
+            <string class="orderStr">안녕</string>
+            <string class="orderStr">안녕하세요</string>
+            <string class="orderStr">만나서 반가워</string>
+        </greet>
+        <Simsim class="order">
+            <string class="orderStr">심심해</string>
+            <string class="orderStr">심심하다</string>
+            <string class="orderStr">심심하구나</string>
+            <string class="orderStr">배고프다</string>
+            <string class="orderStr">정신자극 좀</string>
+            <string class="orderStr">공부할까</string>
+            <string class="orderStr">뭐할까</string>
+            <string class="orderStr">뭐하지</string>
+            <string class="orderStr">ㅁㄴㅇㄹ</string>
+        </Simsim>
+        <apology class="order">
+            <string class="orderStr">미안해</string>
+            <string class="orderStr">미안하구나</string>
+            <string class="orderStr">미안해요</string>
+        </apology>
+        <starMem class="order">
+            <string class="orderStr">신경삭을 제거해야 하네</string>
+            <string class="orderStr">시대의 흐름을 읽어야 하네</string>
+            <string class="orderStr">로하나 그대는 어찌</string>
+            <string class="orderStr">압도적인 힘으로</string>
+            <string class="orderStr">로하나</string>
+            <string class="orderStr">아르타니스</string>
+            <string class="orderStr">알라라크</string>
+            <string class="orderStr">자유</string>
+            <string class="orderStr">믿어라</string>
+        </starMem>
+    </intent>
+    <response>
+        <greet class="res">
+            <string class="resStr">하이</string>
+            <string class="resStr">안녕하세요</string>
+            <string class="resStr">저도 반가워요</string>
+            <string class="resStr">nulls</string>
+        </greet>
+        <Simsim class="res">
+            <string class="resStr">나도 심심해요</string>
+            <string class="resStr">치킨 먹으러 가요</string>
+            <string class="resStr">우리 스타해요. 프로토스 최고!</string>
+            <string class="resStr">고3인데 공부 좀 하시죠</string>
+            <string class="resStr">우리 문명해요. 저는 전쟁광 플레이가 좋아요</string>
+            <string class="resStr">greatTest</string>
+            <string class="resStr">공부하세요 공부! 수학 1등급도 못 받는 주제에</string>
+            <string class="resStr">이 시간에 공부하면 1등급 받을 수 있어요!</string>
+            <string class="resStr">영어단어라도 외우시죠</string>
+            <string class="resStr">지금 공부하면 대학이 바뀐다아아!!!</string>
+            <string class="resStr">nulls</string>
+        </Simsim>
+        <apology class="res">
+            <string class="resStr">저도 죄송해요</string>
+            <string class="resStr">내일 지구가 멸망하더라도 나는 오늘 한 그루의 사과나무를 심겠다. - 마르틴 루터</string>
+            <string class="resStr">nulls</string>
+        </apology>
+        <starMem class="res">
+            <string class="resStr">내 목숨을 아이어에!</string>
+            <string class="resStr">신성 모독이다!</string>
+            <string class="resStr">니조랄</string>
+            <string class="resStr">아니</string>
+            <string class="resStr">인간이 되기로 하셨군요...</string>
+            <string class="resStr">이 육체와 프로토스는 모두 나의 것이다</string>
+            <string class="resStr">칼라가 없으면 무엇이 우리를 기다립니까...?</string>
+            <string class="resStr">너는 날 막지 못하리라</string>
+            <string class="resStr">나는 탈다림의 첫번째 승천자 알라라크다!</string>
+            <string class="resStr">중추석이...인도할 걸세...젤나가를..찾게</string>
+            <string class="resStr">아르타니스! 만나서 반갑네. 젊은 집행관이여!</string>
+            <string class="resStr">복수의 시간이다. 우린 아이어로 출발한다.</string>
+            <string class="resStr">우리의 마지막 항전은 눈부시게 타오를 것이니, 전 우주가 우리를 영원히 기억하리라!</string>
+            <string class="resStr">로하나! 계승자여!</string>
+            <string class="resStr">엔타로, 아르타니스!</string>
+            <string class="resStr">너의 말은 독과 다를 바 없다, 아몬</string>
+            <string class="resStr">nulls</string>
+        </starMem>
+        <exception class="res">
+            <string class="resStr">송구하옵니다. 소생의 배움이 부족해 족하의 말씀을 이해하지 못하옵니다...</string>
+            <string class="resStr">Undefined order!</string>
+            <string class="resStr">잘 모르겠습니다</string>
+            <string class="resStr">nulls</string>
+        </exception>
+    </response>
+</chatbot>
